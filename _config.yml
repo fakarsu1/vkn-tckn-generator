@@ -1,0 +1,16 @@
+title: "VKN TCKN Generator"
+description: "Generate valid VKN and TCKN numbers easily with our tool."
+url: "https://fakarsu1.github.io"
+baseurl: "/vkn-tckn-generator"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
+
+# SEO settings
+seo:
+  type: "WebSite"
+  name: "VKN TCKN Generator"
+  description: "Generate valid VKN and TCKN numbers easily with our tool."
+  url: "https://fakarsu1.github.io/vkn-tckn-generator"

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fakarsu1.github.io/vkn-tckn-generator/sitemap.xml
